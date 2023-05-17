@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "8e3f4e74d683475d",
+    "type": "split",
+    "children": [
+      {
+        "id": "45e50e1970d605e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "834fc6083229a1d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cadena de Complejos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f75a68c430c7f8a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c129021ddcc47c8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "144643a686d216ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d69789eb6af63c5d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4892ceb9eba0bd7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bc05b07eafa9dc05",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ea55af62362fc41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed6895ae3a79e4b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cadena de Complejos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8379bb1521b7ed5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cadena de Complejos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf2e34d49d86d8cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "96fd40cf9055d327",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cadena de Complejos.md"
+              }
+            }
+          },
+          {
+            "id": "fb271238e51ba431",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "834fc6083229a1d7",
+  "lastOpenFiles": [
+    "Excalidraw/Complejo_Cadena.excalidraw.md",
+    "Homología simplicial.md",
+    "Delta Complejos.md",
+    "hatcher.pdf",
+    "Cadena de Complejos.md",
+    "Excalidraw/Homologia_Simplicial.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-16 09.17.21.excalidraw.md",
+    "N Simplices.md",
+    "Excalidraw/Complejo_Cadena_Hom.excalidraw.md",
+    "Organización",
+    "Excalidraw/Drawing 2023-05-15 22.21.33.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-15 22.21.03.excalidraw.md",
+    "Excalidraw"
+  ]
+}
