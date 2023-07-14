@@ -2,5 +2,13 @@
   "calendar",
   "obsidian-tasks-plugin",
   "obsidian-excalidraw-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-tikzjax",
+  "table-editor-obsidian",
+  "obsidian-latex-suite",
+  "obsidian-minimal-settings",
+  "templater-obsidian",
+  "obsidian-citation-plugin",
+  "obsidian-advanced-slides",
+  "obsidian-dictionary-plugin"
 ]

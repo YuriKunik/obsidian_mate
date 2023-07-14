@@ -1,0 +1,74 @@
+1. Introducción a la teoría de grupos: 
+	- [ ] [[Operación binaria]]
+	- [ ] [[Monoides]]
+	- [ ] [[Semigrupo]]
+	- [x] [[Grupo]] ✅ 2023-07-04
+	- [ ] [[Morfismo]]
+	- [ ] [[Cocientes por subgrupo]]
+	- [ ] [[Relaciones de equivalencia compatibles]]
+	- [ ] [[Subgrupos normales]]
+	- [ ] [[grupos cíclicos]]
+	- [ ] [[grupos simétrico y alternados]]
+	- [ ] [[grupos clásicos de matrices]]
+	- [ ] [[grupos de simetrías de sólidos regulares]]
+	- [ ] [[grupos de automorfismos de otras estructuras]]
+	- [ ] [[Producto semidirecto]]
+	- [ ] [[Acción de un grupo en un conjunto]]
+	- [ ] [[orbitas]]
+	- [ ] [[conjunto cociente]]
+	- [ ] [[Teoremas de Sylow]]
+
+2. Anillos: 
+	- [ ] [[Anillos]]
+	- [ ] [[Morfismos de anillos]]
+	- [ ] [[Ideales]]
+	- [ ] [[Anillos cociente]]
+	- [ ] [[anillos numéricos]]
+	- [ ] [[cuaterniones]]
+	- [ ] [[matrices]]
+	- [ ] [[anillos de funciones]]
+	- [ ] [[polinomios]]
+	- [ ] [[series formales]]
+	- [ ] [[algebra de semigrupos]]
+	- [ ] [[anillos de enteros]]
+	- [ ] [[operadores diferenciales]]
+	- [ ] [[Divisores de cero]]
+	- [ ] [[Elementos nilpotentes]]
+	- [ ] [[Unidades]]
+	- [ ] [[Elementos irreducibles]]
+	- [ ] [[Ideales primos]]
+	- [ ] [[ideales maximales]]
+	- [ ] [[Dominios euclideanos]]
+	- [ ] [[Dominios de ideales principales ]]
+	- [ ] [[Dominios de factorización única]]
+ 
+3. Módulos sobre un anillo:
+	- [ ] Definición
+	- [ ] espacios vectoriales
+	- [ ] grupos abelianos
+	- [ ]  ideales de un anillos
+	- [ ]  endomorfismos de un espacio vectoriales
+	- [ ]  representaciones lineales de un grupo finito
+	- [ ] Morfismos de modulos
+	- [ ] Submódulos y módulos cociente
+	- [ ] Operaciones con submódulos, teoremas de isomorfismo
+	- [ ] Sucesiones exactas, diagramas conmutativos
+	- [ ] Suma y producto directo
+	- [ ] Módulos finitamente generados
+	- [ ] Módulos libres
+	- [ ] Torsión
+	- [ ] Divisibilidad
+	- [ ] Estructura de módulos de torsión 
+	- [ ] Estructura de módulos divisibles sobre un dominio de ideales principales
+	- [ ] Conjuntos multiplicativos
+	- [ ] anillos y módulos de fracciones
+	- [ ] localizacion
+	- [ ] Módulos noetherianos
+	- [ ] Módulos artinianos
+	- [ ] Teorema de Hilbert
+	- [ ] Teorema de estructura
+	- [ ] Formas normales de matrices sobre un cuerpo
+	- [ ] Anillos y modulos semisimples: componentes isotipicas, modulos simples e ideales minimales
+	- [ ]  algebra de matrices
+	- [ ] algebra de un grupo finito
+	- [ ] Módulos proyectivos, módulos inyectivos

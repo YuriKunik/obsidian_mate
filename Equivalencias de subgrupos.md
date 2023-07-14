@@ -1,0 +1,2 @@
+# Enunciado
+Dado un grupo 

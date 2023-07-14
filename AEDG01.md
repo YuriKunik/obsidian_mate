@@ -1,0 +1,2 @@
+#antiedipo #deleuze #libros #conceptos #deseo
+	El gran descubrimiento del psicoanálisis fue el de la producción deseante, de las producciones del inconsciente. Sin embargo, con Edipo, este descubrimiento fue encubierto rápidamente por un teatro antiguo; las unidades de producción del inconsciente fueron sustituidas por la representación; el inconsciente productivo fue sustituido por un inconsciente que tan sólo podía expresarse (el mito, la tragedia, el sueño...).

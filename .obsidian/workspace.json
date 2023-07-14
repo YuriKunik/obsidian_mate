@@ -4,22 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "45e50e1970d605e7",
+        "id": "7c511242a8d77c6f",
         "type": "tabs",
         "children": [
           {
-            "id": "834fc6083229a1d7",
+            "id": "76f3b3646ada5808",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Libros/Algebra 2/Notas9.pdf"
+              }
+            }
+          },
+          {
+            "id": "247f9bbb18306e9e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Libros/Algebra 2/Notas20.pdf"
+              }
+            }
+          },
+          {
+            "id": "ae868f803d677430",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "c2d42ccd6188673f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e19d7108392a9cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cadena de Complejos.md",
+                "file": "Subconjunto multiplicativo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f529ff40fbdc7722",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Módulo de fracciones.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#categorias",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "bc05b07eafa9dc05",
@@ -79,35 +126,6 @@
         "id": "7ea55af62362fc41",
         "type": "tabs",
         "children": [
-          {
-            "id": "ed6895ae3a79e4b3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Cadena de Complejos.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f8379bb1521b7ed5",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Cadena de Complejos.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "bf2e34d49d86d8cf",
             "type": "leaf",
@@ -120,32 +138,63 @@
             }
           },
           {
-            "id": "96fd40cf9055d327",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Cadena de Complejos.md"
-              }
-            }
-          },
-          {
-            "id": "fb271238e51ba431",
+            "id": "7acc1e960529fc21",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "6b45dc4e195a2608",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Módulo de fracciones.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "cd70a452e3661dd0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Módulo de fracciones.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a659b3cc5c5bb25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Módulo de fracciones.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -153,23 +202,58 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "834fc6083229a1d7",
+  "active": "f529ff40fbdc7722",
   "lastOpenFiles": [
-    "Excalidraw/Complejo_Cadena.excalidraw.md",
-    "Homología simplicial.md",
-    "Delta Complejos.md",
-    "hatcher.pdf",
-    "Cadena de Complejos.md",
-    "Excalidraw/Homologia_Simplicial.excalidraw.md",
-    "Excalidraw/Drawing 2023-05-16 09.17.21.excalidraw.md",
-    "N Simplices.md",
-    "Excalidraw/Complejo_Cadena_Hom.excalidraw.md",
-    "Organización",
-    "Excalidraw/Drawing 2023-05-15 22.21.33.excalidraw.md",
-    "Excalidraw/Drawing 2023-05-15 22.21.03.excalidraw.md",
-    "Excalidraw"
+    "Subconjunto multiplicativo.md",
+    "Módulo de fracciones.md",
+    "Libros/Algebra 2/Notas9.pdf",
+    "Libros/Algebra 2/Notas8.pdf",
+    "Libros/Algebra 2/Notas10.pdf",
+    "Libros/Algebra 2/Notas20.pdf",
+    "Libros/Algebra 2/Notas7.pdf",
+    "Prop teoremas de isomorfismo.md",
+    "Prop Ker e imagen de morfismos de módulos.md",
+    "Módulo.md",
+    "Morfismo de módulos.md",
+    "Sub-módulo.md",
+    "Libros/Algebra 2/Notas6.pdf",
+    "Dominio.md",
+    "Libros/Algebra 2/Notas19.pdf",
+    "Libros/Algebra 2/Notas18.pdf",
+    "Libros/Algebra 2/Notas17.pdf",
+    "Libros/Algebra 2/Notas16.pdf",
+    "Untitled 3.md",
+    "Ideal Primo.md",
+    "Prop DFU es casi equivalente a que primo = irreducible.md",
+    "Valuación en primos DIP.md",
+    "Valuación en un primo.md",
+    "Máximo común divisor.md",
+    "Mínimo común múltiplo.md",
+    "Dominio Euclideano.md",
+    "Prop Euclideano implica DIP.md",
+    "Resumen implicaciones anillos.md",
+    "Prop DIP => primo es equivalente a irreducible.md",
+    "Untitled 2.md",
+    "Prop Yoga de ideales.md",
+    "Dominio de factorización única.md",
+    "Prop Maximal implica primo.md",
+    "Untitled 1.md",
+    "Prop cocientar por primos o maximales.md",
+    "Prop elemento primo implica irreducible.md",
+    "export/Clase Fourier/Fuentes/Formula Fourier.png",
+    "export/Clase Fourier/Fuentes/output.png",
+    "export/Clase Fourier/Fuentes/coeficientes_matriz.png",
+    "export/Clase Fourier/Fuentes/Solucionperiodica.png",
+    "export/Clase Fourier/plugin/chalkboard/img/blackboard.png",
+    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-black.png",
+    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-blue.png",
+    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-green.png",
+    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-orange.png",
+    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-purple.png"
   ]
 }

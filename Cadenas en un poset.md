@@ -1,0 +1,1 @@
+Dado un [[Poset]] $X$ una cadena es un conjunto parcialmente ordenado. Es decir, un subconjunto $A \subseteq X$ donde $\forall x,y\in A~x\leq y~ \text{o}~ y\leq x$.
