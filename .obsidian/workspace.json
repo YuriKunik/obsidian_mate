@@ -4,69 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7c511242a8d77c6f",
+        "id": "40d1067c44e37107",
         "type": "tabs",
         "children": [
           {
-            "id": "76f3b3646ada5808",
+            "id": "459534d6b05032e9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Libros/Algebra 2/Notas9.pdf"
-              }
-            }
-          },
-          {
-            "id": "247f9bbb18306e9e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Libros/Algebra 2/Notas20.pdf"
-              }
-            }
-          },
-          {
-            "id": "ae868f803d677430",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
         ]
-      },
-      {
-        "id": "c2d42ccd6188673f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0e19d7108392a9cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subconjunto multiplicativo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f529ff40fbdc7722",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Módulo de fracciones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bc05b07eafa9dc05",
@@ -151,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Módulo de fracciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Módulo de fracciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,13 +127,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Módulo de fracciones.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "5b57a87fc1922f37",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -204,47 +158,47 @@
       "random-note:Open random note": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "f529ff40fbdc7722",
+  "active": "459534d6b05032e9",
   "lastOpenFiles": [
-    "Subconjunto multiplicativo.md",
-    "Módulo de fracciones.md",
-    "Libros/Algebra 2/Notas9.pdf",
-    "Libros/Algebra 2/Notas8.pdf",
-    "Libros/Algebra 2/Notas10.pdf",
-    "Libros/Algebra 2/Notas20.pdf",
-    "Libros/Algebra 2/Notas7.pdf",
-    "Prop teoremas de isomorfismo.md",
-    "Prop Ker e imagen de morfismos de módulos.md",
-    "Módulo.md",
-    "Morfismo de módulos.md",
-    "Sub-módulo.md",
-    "Libros/Algebra 2/Notas6.pdf",
-    "Dominio.md",
-    "Libros/Algebra 2/Notas19.pdf",
-    "Libros/Algebra 2/Notas18.pdf",
-    "Libros/Algebra 2/Notas17.pdf",
-    "Libros/Algebra 2/Notas16.pdf",
-    "Untitled 3.md",
-    "Ideal Primo.md",
-    "Prop DFU es casi equivalente a que primo = irreducible.md",
-    "Valuación en primos DIP.md",
-    "Valuación en un primo.md",
-    "Máximo común divisor.md",
-    "Mínimo común múltiplo.md",
-    "Dominio Euclideano.md",
-    "Prop Euclideano implica DIP.md",
-    "Resumen implicaciones anillos.md",
-    "Prop DIP => primo es equivalente a irreducible.md",
-    "Untitled 2.md",
-    "Prop Yoga de ideales.md",
-    "Dominio de factorización única.md",
-    "Prop Maximal implica primo.md",
+    "Libros/aluffi.pdf",
+    "G-Ens.md",
+    "Prop segundo teorema de isomorfismo.md",
+    "Prop Relación entre acciones transitivas en conjuntos y acciones en cocientes.md",
     "Untitled 1.md",
-    "Prop cocientar por primos o maximales.md",
-    "Prop elemento primo implica irreducible.md",
+    "Libros/Algebra 2/Notas8.pdf",
+    "Libros/Algebra 2/Notas15.pdf",
+    "Libros/Algebra 2/Notas17.pdf",
+    "Órbita.md",
+    "Estabilizador.md",
+    "Acción transitiva.md",
+    "Prop equivalencia de acción de grupo para conjuntos.md",
+    "Prop grupos de orden primo.md",
+    "Acción de grupo fiel.md",
+    "Acordes mayores.md",
+    "Acción de un grupo.md",
+    "Acción de grupo.md",
+    "Prop Teorema de Lagrange.md",
+    "Prop tercer teorema de isomorfismos.md",
+    "Prop biyección entre subgrupos que contienen a un normal y subgrupos del cociente.md",
+    "Presentación finita de un grupo.md",
+    "Presentación de un grupo.md",
+    "Prop En grupos el cociente separa productos.md",
+    "Indice de un subgrupo.md",
+    "Cosets.md",
+    "Contra ejemplo existen subgrupos no normales.md",
+    "Prop universal del cociente de subgrupos.md",
+    "Untitled.md",
+    "Prop DIP => todo elemento es divisible por un irreducible.md",
+    "Libros/Algebra 2/Notas19.pdf",
+    "Libros/Algebra 2/Notas9.pdf",
+    "Libros/Algebra 2/Notas16.pdf",
+    "Libros/Algebra 2/Notas21.pdf",
+    "Libros/Algebra 2/Notas20.pdf",
+    "Libros/Algebra 2/Notas10.pdf",
     "export/Clase Fourier/Fuentes/Formula Fourier.png",
     "export/Clase Fourier/Fuentes/output.png",
     "export/Clase Fourier/Fuentes/coeficientes_matriz.png",

@@ -1,7 +1,7 @@
 #categorias #definiciones #matemática 
 ## Definición
 
-Dado un [[Diagrama]] $D: J \to \mathscr{C}$, $N$ un objeto de $\mathscr{C}$. Un cono de $N$ a $F$ es una familia de morfismos $\psi:N \to F(X)$ para cada $X\in ob(J)$ tal que el siguiente diagrama conmuta:
+Dado un [[Diagrama]] $D: J \to \mathscr{C}$, $N$ un objeto de $\mathscr{C}$. Un cono de $N$ a $D$ es una familia de morfismos $\psi:N \to D(X)$ para cada $X\in ob(J)$ tal que el siguiente diagrama conmuta:
 ```tikz
 \usepackage{amsfonts}
 \usepackage{tikz-cd}
@@ -9,14 +9,14 @@ Dado un [[Diagrama]] $D: J \to \mathscr{C}$, $N$ un objeto de $\mathscr{C}$. Un 
 \begin{tikzcd}
 	 & N & \\
 			\\
-	 F(X) & & F(Y)
+	 D(X) & & D(Y)
 	\arrow[swap, "\psi_X", from=1-2, to=3-1]
 	\arrow["\psi_Y", from=1-2, to=3-3]
-	\arrow["F(f)", from=3-1, to=3-3]
+	\arrow["D(f)", from=3-1, to=3-3]
 \end{tikzcd}
 \end{document}
 ```
-A $N$ se le dice vértice y a $F$ base.
+A $N$ se le dice vértice y a $D$ base.
 
 ## Intuición
 
