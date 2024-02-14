@@ -1,9 +1,6 @@
 {
   "vimMode": true,
-  "spellcheckLanguages": [
-    "en-US",
-    "es"
-  ],
+  "spellcheckLanguages": null,
   "spellcheck": true,
   "promptDelete": false,
   "showLineNumber": true,
