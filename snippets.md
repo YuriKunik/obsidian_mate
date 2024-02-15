@@ -241,5 +241,13 @@
     {trigger: "fpr", replacement: "f^{\\prime} $0", options: "mA"},
     {trigger: "nvec", replacement: "\\lVert $0 \\rVert $1", options: "mA"},
     {trigger: "ninft", replacement: "\\lVert $0 \\rVert_\\infty $1", options: "mA"},
+    {trigger: "vnorm", replacement: "\\lVert $0 \\rVert $1", options: "mA", priority: 1},
+    {trigger: "ipr", replacement: "\\langle $0 \\rangle $1", options: "mA", priority: 1},
+    {trigger: "v..", replacement: "\\vdots", options: "mA", priority: 1},
+    {trigger: "d..", replacement: "\\ddots", options: "mA", priority: 1},
+    {trigger: "qu", replacement: "\\quad", options: "mA", priority: 1},
+    {trigger: "nn", replacement: "_{n} $0", options: "mA", priority: 1},
+    {trigger: "ii", replacement: "_{i} $0", options: "mA", priority: 1},
+    {trigger: "jj", replacement: "_{j} $0", options: "mA", priority: 1},
     
 ]
