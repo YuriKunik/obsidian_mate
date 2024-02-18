@@ -99,3 +99,63 @@ $$
 0<\int _{a}^b l^{2}_{k}(x)w(x) \, dx = \sum_{j=0}^nA_{j}(l_{k}(x_{j}))^{2} = A_{k}
 $$
 $\square$
+
+## Error en la integración
+
+Sea $Q_{n}(f)$ la regla de Gauss que usa los $n+1$ puntos $x_{0},\dots x_{n}$ dados por los ceros de $q_{n+1}$ el polinomio ortogonal mónico de grado $n+1$ asociado al eso $w$ en un intervalo $[a,b]$.
+
+Si $f\in C^{2n+2}[a,b]$ se tiene, 
+$$
+I(f)-Q(f)=\frac{f^{2n+2}(\eta)}{(2n+2)!}\int_{a}^{b} q^{2}_{n+1}(x)w(x) \, dx, \quad \text{ para algún } \eta \in (a,b)
+$$
+
+### Demostración:
+
+La clave es tomar el polinomio $p \in \mathcal{P}_{2n+1}$ tal que $p(x_{j})=f(x_{j})$ y $p^{\prime}(x_{j})=f^{\prime}(x_{j})$ que existe por [[Interpolación de Hermite]].
+
+Utilizando algo análogo al calculo del error en [[Forma de Lagrange#Cálculo del error|la forma de lagrange]] Tenemos
+$$
+f(x)-p(x)= \frac{f^{2n+2}(\xi)}{(2n+2)!}q^{2}_{n+1}(x),
+$$
+para algún punto intermedio $\xi(x)$. Por otra parte, como $Q_{n}$ tiene grado de exactitud $2n+1$
+$$
+I(p)=Q_{n}(p)
+$$
+además, como $p$ conincide con $f$ en los nodos de integración,
+$$
+Q_{n}(p)=Q_{n}(f)
+$$
+Por lo tanto, para el error de integración tenemos,
+$$
+\begin{align}
+I(f)-Q_{n}(f)&= I(f)-Q_{n}(p) \\
+            &=I(f-p) \\
+            & =\int_{a}^{b} \frac{f^{2n+2}(\xi)}{(2n+2)!}q^{2}_{n+1}(x)w(x) \, dx 
+\end{align}
+$$
+
+que usando el [[Valor medio integral generalizado]] obtenemos lo que pedía el enunciado.
+
+## Caso particular: $w(x)=1$
+TODO.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

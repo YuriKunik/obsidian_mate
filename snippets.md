@@ -200,7 +200,7 @@
     // Integrals
     {trigger: "oinf", replacement: "\\int_{0}^{\\infty} $0 \\, d${1:x} $2", options: "mA"},
     {trigger: "infi", replacement: "\\int_{-\\infty}^{\\infty} $0 \\, d${1:x} $2", options: "mA"},
-    {trigger: "dint", replacement: "\\int_{${0:0}}^{${1:\\infty}} $2 \\, d${3:x} $4", options: "mA"},
+    {trigger: "dint", replacement: "\\int_{${0:a}}^{${1:b}} $2 \\, d${3:x} $4", options: "mA"},
     {trigger: "oint", replacement: "\\oint", options: "mA"},
     {trigger: "iiint", replacement: "\\iiint", options: "mA"},
     {trigger: "iint", replacement: "\\iint", options: "mA"},
@@ -239,7 +239,10 @@
     {trigger: "\\to>", replacement: "\\twoheadrightarrow", options:"mA"},
     {trigger: "pri", replacement: "\\prime $0", options: "mA"},
     {trigger: "fpr", replacement: "f^{\\prime} $0", options: "mA"},
-    {trigger: "nvec", replacement: "\\lVert $0 \\rVert $1", options: "mA"},
+    {trigger: "vnor", replacement: "\\lVert $0 \\rVert $1", options: "mA"},
     {trigger: "ninft", replacement: "\\lVert $0 \\rVert_\\infty $1", options: "mA"},
-    
+    {trigger: "jsm", replacement: "\\sum_{${0:j=0}}^{${1:n}}  $2", options: "mA"},
+    {trigger: "ii", replacement: "_{i}$0", options: "mA"},
+    {trigger: "jj", replacement: "_{j}$0", options: "mA"},
+    {trigger: "jj", replacement: "_{j}$0", options: "mA"},
 ]
