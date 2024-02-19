@@ -30,45 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a176d14128f2d0b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f7da7c223aeaab1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "snippets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ecdaa62819a51406",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cálculo numérico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cálculo numérico.md",
+                "file": "Integración numérica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cálculo numérico.md",
+                "file": "Integración numérica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cálculo numérico.md"
+                "file": "Integración numérica.md"
               }
             }
           },
@@ -230,9 +194,10 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "ecdaa62819a51406",
+  "active": "de8a3f8ddded553c",
   "lastOpenFiles": [
     "snippets.md",
+    "Cálculo numérico.md",
     "conflict-files-obsidian-git.md",
     "Integración numérica.md",
     "lema para error de cuadraturas compuestas.md",
@@ -254,7 +219,6 @@
     "Cuadratura Gaussiana.md",
     "Convergencia de los métodos de cuadratura.md",
     "Cambio de dominios en cuadraturas.md",
-    "Cálculo numérico.md",
     "Cuadrados mínimos.md",
     "Final numérico 230223.md",
     "Interpolación de Hermite.md",
