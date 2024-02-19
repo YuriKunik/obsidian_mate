@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"a053d51b211c5342","x":-600,"y":-380,"width":400,"height":480,"type":"file","file":"Cuadratura Gaussiana.md"},
+		{"id":"d5ec841c452db743","x":-160,"y":-380,"width":400,"height":400,"type":"file","file":"Regla de Simpson.md"},
+		{"id":"bcd3bb07ee3310fe","x":260,"y":-380,"width":400,"height":400,"type":"file","file":"Regla de Trapecios.md"}
+	],
+	"edges":[]
+}
