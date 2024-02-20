@@ -15,7 +15,7 @@ Utilizamos nodos equiespaciados en el intervalo $[a,b]$. Consideramos $h=\frac{b
 
 ### Regla de trapecios cerrada:
 
-Se remplaza la función $f$ por la recta que une $(a,f(a))$ con $(b,f(b))$. La recta está dada por $p(x)=f(a)+ \frac{f(b)-f(a)}{b-a}(x-a)$, integrando obtenemosS:
+Se remplaza la función $f$ por la recta que une $(a,f(a))$ con $(b,f(b))$. la recta está dada por $p(x)=f(a)+ \frac{f(b)-f(a)}{b-a}(x-a)$, integrando obtenemos:
 $$
 \begin{align}
 \int _{a}^bp(x) \, d &= f(a)+ \left. \frac{f(b)-f(a)}{b-a} \frac{(x-a)^{2}}{2} \right|_{a}^b \\

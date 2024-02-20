@@ -30,7 +30,7 @@ $$
 $$
 con $\xi$ entre $r$ y $x_{n}$. Reemplazando en la formula de $e_{n+1}$ nos da
 $$
-e_{n+1} = \frac{1}{2} \frac{f^{\prime\prime}(\xi)}{f^\prime(x_{n})}e_{n}
+e_{n+1} = \frac{1}{2} \frac{f^{\prime\prime}(\xi)}{f^\prime(x_{n})}e_{n}^2
 $$
 ## Teorema de convergencia
 

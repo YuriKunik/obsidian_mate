@@ -11,11 +11,9 @@
             "id": "c992fdf9370c3147",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Cuadrados mínimos.md",
-                "mode": "source",
-                "source": false
+                "file": "Fuentes/Solucionperiodica.png"
               }
             }
           },
@@ -30,9 +28,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "06de703e1fc4f1fe",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Integración numérica.md",
+                "file": "Fuentes/Solucionperiodica.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Integración numérica.md",
+                "file": "Fuentes/Solucionperiodica.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Integración numérica.md"
+                "file": "Fuentes/Solucionperiodica.png"
               }
             }
           },
@@ -194,12 +199,25 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "de8a3f8ddded553c",
+  "active": "c992fdf9370c3147",
   "lastOpenFiles": [
+    "Fuentes/Final 22-12-2021 Sandra Martínez.pdf",
+    "Fuentes/Final 15-12-2021 Sandra Martínez.pdf",
+    "Fuentes/Final_23-02-2023_SandraM.pdf",
+    "Fuentes/photo_2023-06-06_18-35-33.jpg",
+    "Fuentes/Pasted image 20230603235632.png",
+    "Fuentes/Solucionperiodica.png",
+    "Fuentes/Pasted image 20230603235645.png",
+    "Fuentes/output.png",
+    "Fuentes/Formula Fourier.png",
+    "Fuentes/coeficientes_matriz.png",
+    "Fuentes/Animated-mass-spring.gif",
+    "Método de Newton-Raphson.md",
+    "Cuadrados mínimos.md",
+    "Integración numérica.md",
     "snippets.md",
     "Cálculo numérico.md",
     "conflict-files-obsidian-git.md",
-    "Integración numérica.md",
     "lema para error de cuadraturas compuestas.md",
     "Valor medio integral generalizado.md",
     "Regla de Trapecios.md",
@@ -219,10 +237,7 @@
     "Cuadratura Gaussiana.md",
     "Convergencia de los métodos de cuadratura.md",
     "Cambio de dominios en cuadraturas.md",
-    "Cuadrados mínimos.md",
     "Final numérico 230223.md",
-    "Interpolación de Hermite.md",
-    "Splines cúbicos.md",
     "Libros/Duran_Lassalle_Rossi.pdf",
     "Libros/applied_cateogry_theory.pdf",
     "Duran_Lassalle_Rossi.pdf",
@@ -231,17 +246,7 @@
     "EATchapter4_ghrist.pdf",
     "Libros/aluffi.pdf",
     "Libros/Algebra 2/Notas8.pdf",
-    "Libros/Algebra 2/Notas15.pdf",
-    "Libros/Algebra 2/Notas17.pdf",
     "export/Clase Fourier/Fuentes/Formula Fourier.png",
-    "export/Clase Fourier/Fuentes/output.png",
-    "export/Clase Fourier/Fuentes/coeficientes_matriz.png",
-    "export/Clase Fourier/Fuentes/Solucionperiodica.png",
-    "export/Clase Fourier/plugin/chalkboard/img/blackboard.png",
-    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-black.png",
-    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-blue.png",
-    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-green.png",
-    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-orange.png",
-    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-purple.png"
+    "export/Clase Fourier/Fuentes/output.png"
   ]
 }
