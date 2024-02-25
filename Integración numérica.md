@@ -1,4 +1,4 @@
-
+#calculonumerico #integracion 
 ## Objetivo
 
 Dada una función continua $f$ en un intervalo $[a,b]$ tomamos nodos $\{ x_{0},\dots, x_{n} \}$ en el intervalo, aproximamos a $f$ por un polinomio $p_{n}$ y lo integramos obteniendo

@@ -1,4 +1,4 @@
-#construcciones #categorias #matemática #definiciones 
+#construcciones #categorias #definiciones 
 # Definición
 
 Dado un [[diagrama]] $F$, la categoría de [[cono|conos]] tiene:

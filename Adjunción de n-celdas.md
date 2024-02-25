@@ -1,4 +1,4 @@
-#matemática #topoalg #definiciones #construcciones 
+#topoalg #definiciones #construcciones 
 
 ## Definición
 Una adjunción de una $n$-celda es el siguiente [[Espacio de adjunción]] 

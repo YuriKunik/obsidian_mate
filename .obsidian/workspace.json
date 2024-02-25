@@ -8,79 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f1d4b49e0c0ecb8d",
+            "id": "7d8da0f50f54c4b9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "89ff7b37da1c6fc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Convergencia de los métodos de cuadratura.md",
+                "file": "Operadores de Wirtinger.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "228fab77e385aaae",
+            "id": "d966393fe6d33e19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cálculo numérico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d27361588f62c57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Análisis de métodos numéricos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd6416a250db8c7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Análisis complejo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cbe615a7405d707",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Funciones holomorfas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef6c6408e6d9a798",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ecuaciones de Cauchy-Riemann.md",
+                "file": "snippets.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecuaciones de Cauchy-Riemann.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecuaciones de Cauchy-Riemann.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ecuaciones de Cauchy-Riemann.md"
-              }
+              "state": {}
             }
           },
           {
@@ -242,34 +198,45 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "ef6c6408e6d9a798",
+  "active": "7d8da0f50f54c4b9",
   "lastOpenFiles": [
-    "Funciones holomorfas.md",
-    "Análisis complejo.md",
-    "Ecuaciones de Cauchy-Riemann.md",
-    "C linealidad.md",
-    "Análisis de métodos numéricos.md",
-    "Cálculo numérico.md",
-    "Integración numérica.md",
-    "Final numérico 230223.md",
-    "Cuadrados mínimos.md",
-    "Convergencia de los métodos de cuadratura.md",
-    "Métodos de solución de Ecuaciones Diferenciales.md",
-    "Métodos de Runge-Kutta.md",
-    "Error de truncamiento local.md",
-    "Métodos de Taylor.md",
-    "Error global.md",
+    "Transformaciones conformes.md",
+    "Operadores de Wirtinger.md",
     "snippets.md",
-    "Método de Euler.md",
-    "Untitled 2.md",
-    "Orden de un método (EDO).md",
-    "Método de un paso.md",
-    "AEDG04.md",
-    "AEDG03.md",
-    "AEDG02.md",
-    "AEDG01.md",
-    "2023-12-10.md",
-    "2024-02-05.md",
+    "Cono.md",
+    "Categoría de conos.md",
+    "Cadena de Complejos.md",
+    "Adjunción de n-celdas.md",
+    "Función exponencial compleja.md",
+    "Teorema de la función inversa complejo.md",
+    "Función holomorfa.md",
+    "Derivada nula implica función constante.md",
+    "Función logarítmica compleja.md",
+    "Función potencial compleja.md",
+    "Rama principal del logaritmo.md",
+    "Funciones trigonométricas complejas.md",
+    "Ecuaciones de Cauchy-Riemann.md",
+    "Integración numérica.md",
+    "Fuentes/Solucionperiodica.png",
+    "C linealidad.md",
+    "Análisis complejo.md",
+    "Fuentes/Final 22-12-2021 Sandra Martínez.pdf",
+    "Fuentes/Final 15-12-2021 Sandra Martínez.pdf",
+    "Fuentes/Final_23-02-2023_SandraM.pdf",
+    "Fuentes/photo_2023-06-06_18-35-33.jpg",
+    "Fuentes/Pasted image 20230603235632.png",
+    "Fuentes/Pasted image 20230603235645.png",
+    "Fuentes/output.png",
+    "Fuentes/Formula Fourier.png",
+    "Fuentes/coeficientes_matriz.png",
+    "Fuentes/Animated-mass-spring.gif",
+    "Método de Newton-Raphson.md",
+    "Cuadrados mínimos.md",
+    "Cálculo numérico.md",
+    "conflict-files-obsidian-git.md",
+    "lema para error de cuadraturas compuestas.md",
+    "Valor medio integral generalizado.md",
+    "Regla de Trapecios.md",
     "Elementos de cálculo numérico.canvas",
     "Libros/Duran_Lassalle_Rossi.pdf",
     "Libros/applied_cateogry_theory.pdf",
@@ -278,18 +245,7 @@
     "barcodes_ghrist.pdf",
     "EATchapter4_ghrist.pdf",
     "Libros/aluffi.pdf",
-    "Libros/Algebra 2/Notas8.pdf",
-    "Libros/Algebra 2/Notas15.pdf",
-    "Libros/Algebra 2/Notas17.pdf",
     "export/Clase Fourier/Fuentes/Formula Fourier.png",
-    "export/Clase Fourier/Fuentes/output.png",
-    "export/Clase Fourier/Fuentes/coeficientes_matriz.png",
-    "export/Clase Fourier/Fuentes/Solucionperiodica.png",
-    "export/Clase Fourier/plugin/chalkboard/img/blackboard.png",
-    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-black.png",
-    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-blue.png",
-    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-green.png",
-    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-orange.png",
-    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-purple.png"
+    "export/Clase Fourier/Fuentes/output.png"
   ]
 }
