@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "afaf36a1bbc846b2",
+        "id": "cae706d654b53c31",
         "type": "tabs",
         "children": [
           {
-            "id": "c201112bfd925cc3",
+            "id": "c4c8a39ed501686b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Radio de convergencia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df2ebcfb3f5c6625",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lema de Abel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7930e1d2ca06ade",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Criterio de Cauchy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d966393fe6d33e19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "snippets.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Criterio de Cauchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Criterio de Cauchy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Criterio de Cauchy.md"
-              }
+              "state": {}
             }
           },
           {
@@ -219,13 +174,13 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "a7930e1d2ca06ade",
+  "active": "c4c8a39ed501686b",
   "lastOpenFiles": [
+    "snippets.md",
+    "Radio de convergencia.md",
     "Lema de Abel.md",
     "Criterio de Cauchy.md",
-    "Radio de convergencia.md",
     "Convergencia puntual.md",
-    "snippets.md",
     "Serie uniformemente de Cauchy.md",
     "Criterio suficiente para un radio de convergencia.md",
     "Criterio de Weierstrass.md",
