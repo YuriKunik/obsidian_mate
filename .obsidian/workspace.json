@@ -8,20 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d8da0f50f54c4b9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "89ff7b37da1c6fc3",
+            "id": "c201112bfd925cc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operadores de Wirtinger.md",
+                "file": "Radio de convergencia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df2ebcfb3f5c6625",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lema de Abel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7930e1d2ca06ade",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Criterio de Cauchy.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Criterio de Cauchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Criterio de Cauchy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Criterio de Cauchy.md"
+              }
             }
           },
           {
@@ -198,11 +219,22 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "7d8da0f50f54c4b9",
+  "active": "a7930e1d2ca06ade",
   "lastOpenFiles": [
-    "Transformaciones conformes.md",
-    "Operadores de Wirtinger.md",
+    "Lema de Abel.md",
+    "Criterio de Cauchy.md",
+    "Radio de convergencia.md",
+    "Convergencia puntual.md",
     "snippets.md",
+    "Serie uniformemente de Cauchy.md",
+    "Criterio suficiente para un radio de convergencia.md",
+    "Criterio de Weierstrass.md",
+    "Convergencia Uniforme.md",
+    "Permutación entre límite y serie.md",
+    "Operadores de Wirtinger.md",
+    "Untitled 3.md",
+    "Untitled 4.md",
+    "Transformaciones conformes.md",
     "Cono.md",
     "Categoría de conos.md",
     "Cadena de Complejos.md",
@@ -215,11 +247,7 @@
     "Función potencial compleja.md",
     "Rama principal del logaritmo.md",
     "Funciones trigonométricas complejas.md",
-    "Ecuaciones de Cauchy-Riemann.md",
-    "Integración numérica.md",
     "Fuentes/Solucionperiodica.png",
-    "C linealidad.md",
-    "Análisis complejo.md",
     "Fuentes/Final 22-12-2021 Sandra Martínez.pdf",
     "Fuentes/Final 15-12-2021 Sandra Martínez.pdf",
     "Fuentes/Final_23-02-2023_SandraM.pdf",
@@ -230,13 +258,6 @@
     "Fuentes/Formula Fourier.png",
     "Fuentes/coeficientes_matriz.png",
     "Fuentes/Animated-mass-spring.gif",
-    "Método de Newton-Raphson.md",
-    "Cuadrados mínimos.md",
-    "Cálculo numérico.md",
-    "conflict-files-obsidian-git.md",
-    "lema para error de cuadraturas compuestas.md",
-    "Valor medio integral generalizado.md",
-    "Regla de Trapecios.md",
     "Elementos de cálculo numérico.canvas",
     "Libros/Duran_Lassalle_Rossi.pdf",
     "Libros/applied_cateogry_theory.pdf",

@@ -55,14 +55,3 @@ $$
 \end{align}
 $$
 calculando $\frac{\partial f}{\partial z}\gamma^\prime + \frac{\partial f}{\partial \overline{z}}\overline{\gamma^\prime}$ vemos que nos queda la igualdad de arriba con lo que concluimos la demostración.
-
-
-
-
-
-
-
-
-
-
-
