@@ -8,14 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c4c8a39ed501686b",
+            "id": "7cc7eda4d634d318",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Operaciones de series y radio de convergencia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5836e8f0c11158c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yoga de funciones analíticas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6dbc44321ec8b755",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teorema de la aplicación abierta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "970b78e47d235f6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extensión analítica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "872de9e9bf4370fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "snippets.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,12 +114,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bc05b07eafa9dc05",
@@ -101,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Teorema de la aplicación abierta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Teorema de la aplicación abierta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Teorema de la aplicación abierta.md"
+              }
             }
           },
           {
@@ -174,34 +231,34 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "c4c8a39ed501686b",
+  "active": "6dbc44321ec8b755",
   "lastOpenFiles": [
+    "Extensión analítica.md",
     "snippets.md",
+    "Teorema de la aplicación abierta.md",
+    "Yoga de funciones analíticas.md",
+    "Untitled 6.md",
+    "Permutación entre límite y serie.md",
+    "Operaciones de series y radio de convergencia.md",
+    "Suma y producto formal de series.md",
+    "Potencias de series con termino nulo.md",
+    "Composición de series de potencias.md",
+    "Problema con los criterios del radio de convergencia.md",
     "Radio de convergencia.md",
-    "Lema de Abel.md",
+    "Función analítica.md",
+    "Criterio de D´alembert.md",
     "Criterio de Cauchy.md",
+    "Lema de Abel.md",
+    "Criterio suficiente para un radio de convergencia.md",
+    "Untitled 5.md",
     "Convergencia puntual.md",
     "Serie uniformemente de Cauchy.md",
-    "Criterio suficiente para un radio de convergencia.md",
     "Criterio de Weierstrass.md",
     "Convergencia Uniforme.md",
-    "Permutación entre límite y serie.md",
     "Operadores de Wirtinger.md",
     "Untitled 3.md",
     "Untitled 4.md",
     "Transformaciones conformes.md",
-    "Cono.md",
-    "Categoría de conos.md",
-    "Cadena de Complejos.md",
-    "Adjunción de n-celdas.md",
-    "Función exponencial compleja.md",
-    "Teorema de la función inversa complejo.md",
-    "Función holomorfa.md",
-    "Derivada nula implica función constante.md",
-    "Función logarítmica compleja.md",
-    "Función potencial compleja.md",
-    "Rama principal del logaritmo.md",
-    "Funciones trigonométricas complejas.md",
     "Fuentes/Solucionperiodica.png",
     "Fuentes/Final 22-12-2021 Sandra Martínez.pdf",
     "Fuentes/Final 15-12-2021 Sandra Martínez.pdf",

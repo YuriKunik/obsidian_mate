@@ -17,5 +17,4 @@ $$
 
 ## Correctitud de la definición
 
-Vemos que la demostración tiene sentido mediante el [[Lema de Abel]]
-
+Vemos que la definición tiene sentido mediante el [[Lema de Abel]].

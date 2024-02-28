@@ -256,4 +256,5 @@
     {trigger: "inn", replacement: "\\in", options: "mA", priority: 1},
     {trigger: "eqq", replacement: "\\equiv", options: "mA", priority: 1},
     {trigger: "dpartial", replacement: "\\frac{\\partial ${0:f}}{\\partial ${1:x}} $2", options: "mA", priority: 1},
+    {trigger: "ç", replacement: "^{$0}$1", options: "mA", priority: 1},
 ]
