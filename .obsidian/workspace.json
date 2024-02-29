@@ -4,23 +4,74 @@
     "type": "split",
     "children": [
       {
-        "id": "cae706d654b53c31",
+        "id": "afaf36a1bbc846b2",
         "type": "tabs",
         "children": [
           {
-            "id": "7cc7eda4d634d318",
+            "id": "8590742af00ea539",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operaciones de series y radio de convergencia.md",
+                "file": "Desigualdad de Cauchy.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5836e8f0c11158c4",
+            "id": "b9cd970a3365f38c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teorema de Louville.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e33c84fbbd27199c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Holomorfa implica Analítica.canvas",
+                "viewState": {
+                  "x": 159.6146247536955,
+                  "y": 490.2783059387988,
+                  "zoom": -1.4
+                }
+              }
+            }
+          },
+          {
+            "id": "035bd37e1d97a87f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Holomorfa implica Analítica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a416465efc951f87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Holomorfa implica Analítica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32e892a6b425e0e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,43 +83,33 @@
             }
           },
           {
-            "id": "6dbc44321ec8b755",
+            "id": "3ff629d813c4f5fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teorema de la aplicación abierta.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "2cdf3677873e5e10",
+        "type": "tabs",
+        "children": [
           {
-            "id": "970b78e47d235f6f",
+            "id": "396d60bec3e246f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extensión analítica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "872de9e9bf4370fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "snippets.md",
+                "file": "Temas complejo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +155,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teorema de la aplicación abierta.md",
+                "file": "Teorema de Louville.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teorema de la aplicación abierta.md",
+                "file": "Teorema de Louville.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teorema de la aplicación abierta.md"
+                "file": "Teorema de Louville.md"
               }
             }
           },
@@ -231,45 +273,34 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "6dbc44321ec8b755",
+  "active": "b9cd970a3365f38c",
   "lastOpenFiles": [
-    "Extensión analítica.md",
-    "snippets.md",
-    "Teorema de la aplicación abierta.md",
+    "Desigualdad de Cauchy.md",
+    "Temas complejo.md",
+    "Holomorfa implica Analítica.md",
+    "Holomorfa implica Analítica.canvas",
+    "Teorema de Louville.md",
+    "Función entera.md",
+    "Fórmula de Cauchy.md",
     "Yoga de funciones analíticas.md",
-    "Untitled 6.md",
-    "Permutación entre límite y serie.md",
-    "Operaciones de series y radio de convergencia.md",
-    "Suma y producto formal de series.md",
-    "Potencias de series con termino nulo.md",
-    "Composición de series de potencias.md",
-    "Problema con los criterios del radio de convergencia.md",
-    "Radio de convergencia.md",
-    "Función analítica.md",
-    "Criterio de D´alembert.md",
-    "Criterio de Cauchy.md",
-    "Lema de Abel.md",
-    "Criterio suficiente para un radio de convergencia.md",
-    "Untitled 5.md",
-    "Convergencia puntual.md",
-    "Serie uniformemente de Cauchy.md",
-    "Criterio de Weierstrass.md",
-    "Convergencia Uniforme.md",
-    "Operadores de Wirtinger.md",
-    "Untitled 3.md",
-    "Untitled 4.md",
-    "Transformaciones conformes.md",
-    "Fuentes/Solucionperiodica.png",
-    "Fuentes/Final 22-12-2021 Sandra Martínez.pdf",
-    "Fuentes/Final 15-12-2021 Sandra Martínez.pdf",
-    "Fuentes/Final_23-02-2023_SandraM.pdf",
-    "Fuentes/photo_2023-06-06_18-35-33.jpg",
-    "Fuentes/Pasted image 20230603235632.png",
-    "Fuentes/Pasted image 20230603235645.png",
-    "Fuentes/output.png",
-    "Fuentes/Formula Fourier.png",
-    "Fuentes/coeficientes_matriz.png",
-    "Fuentes/Animated-mass-spring.gif",
+    "Integral compleja de la función inversa.md",
+    "Yoga de integración compleja.md",
+    "fórmula de la serie geométrica.md",
+    "Teorema de Cauchy segunda versión.md",
+    "Teorema de Cauchy Primera versión.md",
+    "Excalidraw/Teorema de Cauchy 2024-02-29 00.41.34.excalidraw.md",
+    "Excalidraw/Teorema de Cauchy segunda versión 2024-02-29 16.44.15.excalidraw.md",
+    "Excalidraw/Teorema de Cauchy 2024-02-29 01.34.35.excalidraw.md",
+    "Untitled 8.md",
+    "snippets.md",
+    "Excalidraw/Teorema de Cauchy 2024-02-28 21.20.14.excalidraw.md",
+    "Excalidraw/Yoga de integración compleja 2024-02-28 20.38.58.excalidraw.md",
+    "Integración de funciones complejas.md",
+    "Ecuaciones de Cauchy-Riemann.md",
+    "Análisis complejo.md",
+    "Análisis de métodos numéricos.md",
+    "Cálculo numérico.md",
+    "Convergencia de los métodos de cuadratura.md",
     "Elementos de cálculo numérico.canvas",
     "Libros/Duran_Lassalle_Rossi.pdf",
     "Libros/applied_cateogry_theory.pdf",
@@ -278,7 +309,18 @@
     "barcodes_ghrist.pdf",
     "EATchapter4_ghrist.pdf",
     "Libros/aluffi.pdf",
+    "Libros/Algebra 2/Notas8.pdf",
+    "Libros/Algebra 2/Notas15.pdf",
+    "Libros/Algebra 2/Notas17.pdf",
     "export/Clase Fourier/Fuentes/Formula Fourier.png",
-    "export/Clase Fourier/Fuentes/output.png"
+    "export/Clase Fourier/Fuentes/output.png",
+    "export/Clase Fourier/Fuentes/coeficientes_matriz.png",
+    "export/Clase Fourier/Fuentes/Solucionperiodica.png",
+    "export/Clase Fourier/plugin/chalkboard/img/blackboard.png",
+    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-black.png",
+    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-blue.png",
+    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-green.png",
+    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-orange.png",
+    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-purple.png"
   ]
 }

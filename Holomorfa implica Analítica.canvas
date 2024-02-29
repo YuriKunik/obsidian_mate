@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"36b66b4948702c21","type":"file","file":"Integral compleja de la función inversa.md","x":-740,"y":180,"width":400,"height":400},
+		{"id":"60b13b0e30a0aa29","type":"file","file":"Fórmula de Cauchy.md","x":-40,"y":-68,"width":700,"height":448},
+		{"id":"4d03b93522727754","type":"file","file":"Teorema de Cauchy Primera versión.md","x":-1520,"y":-280,"width":400,"height":400},
+		{"id":"8ed3b19973a73d35","type":"file","file":"Holomorfa implica Analítica.md","x":1000,"y":580,"width":400,"height":400},
+		{"id":"d955729d17d4f5d1","type":"file","file":"Yoga de integración compleja.md","x":-80,"y":764,"width":627,"height":400},
+		{"id":"76d0dc3e94574197","type":"file","file":"Teorema de Cauchy segunda versión.md","x":-740,"y":-468,"width":500,"height":400},
+		{"id":"413e2801192ee1bb","type":"file","file":"Yoga de funciones analíticas.md","x":-127,"y":1360,"width":787,"height":400},
+		{"id":"a13a52751de75adf","x":287,"y":1260,"width":373,"height":100,"type":"text","text":"## Serie de potencias es analítica"},
+		{"id":"adfbb05bd5754b40","x":297,"y":595,"width":250,"height":169,"type":"text","text":"## Cambio de integración y serie"},
+		{"id":"1b41fa56cc4d94b2","type":"text","text":"## Corolario 1","x":-490,"y":-528,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"73da04e0af69516c","fromNode":"76d0dc3e94574197","fromSide":"right","toNode":"60b13b0e30a0aa29","toSide":"left"},
+		{"id":"47db09c8c36de321","fromNode":"36b66b4948702c21","fromSide":"right","toNode":"60b13b0e30a0aa29","toSide":"left"},
+		{"id":"de8004bc1f9c4f49","fromNode":"4d03b93522727754","fromSide":"right","toNode":"76d0dc3e94574197","toSide":"left"},
+		{"id":"f083bc793b69792f","fromNode":"4d03b93522727754","fromSide":"right","toNode":"36b66b4948702c21","toSide":"left"},
+		{"id":"2adc43bb1c441891","fromNode":"60b13b0e30a0aa29","fromSide":"right","toNode":"8ed3b19973a73d35","toSide":"left"},
+		{"id":"e13a962fee1f9272","fromNode":"d955729d17d4f5d1","fromSide":"right","toNode":"8ed3b19973a73d35","toSide":"left"},
+		{"id":"f2f8c417aba220fe","fromNode":"413e2801192ee1bb","fromSide":"right","toNode":"8ed3b19973a73d35","toSide":"left"}
+	]
+}
