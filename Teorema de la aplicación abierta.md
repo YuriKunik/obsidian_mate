@@ -18,5 +18,4 @@ Podemos aplicar el [[Teorema de la función inversa complejo|teorema de la funci
 
 ##### Subcaso $z_{0}=0$, $f(z_{0})=0$
 
-#TODO 
-Me lo voy a saltear porque la demo usando que $f$ es holomorfa es más simple. Siento que no tiene sentido demostrarlo desde funciones analíticas.
+Tenemos que 

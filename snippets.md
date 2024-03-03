@@ -259,4 +259,5 @@
     {trigger: "dpart", replacement: "\\frac{\\partial ${0:f}}{\\partial ${1:x}} $2", options: "mA", priority: 1},
     {trigger: "ç", replacement: "^{$0}$1", options: "mA", priority: 1},
     {trigger: "#", replacement: "^{$0}$1", options: "mA", priority: 1},
+    {trigger: "dsc", replacement: "D_{${0:\\varepsilon}}(${1:z_0})", options: "mA", priority: 1},
 ]

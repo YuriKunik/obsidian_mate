@@ -33,3 +33,10 @@ $$
 \lim_{ z \to z_{0} } (z-z_{0})f(z)=0.
 $$
 Entonces $f$ tiene primitiva en $D$ y en particular, la integral de $f$ sobre cualquier curva cerrada contenida en $D$ es $0$.
+
+#### Demostración
+
+Siguiendo la demostración de Cauchy, para $z_{0} \in \partial R$ tomamos un $R_{0}$ centrado en $z_{0}$ de lados de radio menor a $\varepsilon$. Entonces, si $\tilde{z}$ es donde $f$ alcanza el máximo en $\partial R_{0}$:
+$$
+	\left\lvert  \int_{\partial R}f(z) \, dz   \right\rvert \leq 4\varepsilon \lVert f|_{\partial R_{0}} \rVert_{\infty}\leq 8\lvert f(\tilde{z})(\tilde{z}-z_{0}) \rvert 
+$$Donde usamos que, $\frac{\varepsilon}{2}<\lvert \tilde{z}-z_{0} \rvert\leq\varepsilon$ por estar centrado el cuadrado en $z_{0}$.

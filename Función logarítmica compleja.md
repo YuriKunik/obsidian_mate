@@ -47,11 +47,30 @@ f:\tilde{U}\to V \quad \text{es biyectiva}.
 $$
 Notar que tomamos $g(z_{0}),z_{0}$ ya que $f(g(z_{0}))=z_{0}$ por ser rama del logaritmo. Entonces existe $f^{-1}:V \to \tilde{U}$ que verifica $f(f^{-1}(z))=z$ en $\tilde{U}$. Ahora $z_{0} \in U \cap \tilde{U}$ y es abierto, por lo tanto, tomando $D_{r}(z_{0})\subset U\cap \tilde{U}$ es conexo y abierto y $f^{-1}$, $g$ son ramas del logaritmo por lo que difieren en una constante ([[Logaritmo complejo#Diferencias entre ramas del logaritmo|prop anterior]]). Con esto demostramos que $g$ es holomorfa en $z_{0}$ ya que es suma de holomorfas. 
 
+### Analiticidad
+
+Fijada una rama del logaritmo en un entorno de 1, $f(z)=\log(1+z)$ es una función holomorfa en un entorno de $0$. Como vale $e^{f(z)}=1+z$, resulta
+
+$$
+1=(e^{f(z)})^{\prime }=e^{f(z)}f^{\prime} (z)=(1+z)f^{\prime }(z)
+$$
+
+con lo que 
+$$
+f^{\prime} (z)=\frac{1}{1+z}=\sum_{n\geq 0}(-1)^{n}z^{n}.
+$$
+Teniendo esta fórmula en mente, definamos
+$$
+I(z)=\sum_{n\geq 1}(-1)^{n+1} \frac{z^{n}}{n}
+$$
+que es una primitiva de $f$, con $I(0)=1=f(0)+2k\pi i$ por lo que  $I(z)=Log(1+z)+2 \tilde{k}\pi i$.
+
 #### Formula 
 Con esto vemos
 $$
 1 = [e^{g(z)}]^\prime = e^{g(z)}g^\prime (z) \implies g^\prime (z)=\frac{1}{z}
 $$
+
 
 
 

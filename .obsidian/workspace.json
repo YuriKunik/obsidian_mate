@@ -4,86 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "afaf36a1bbc846b2",
+        "id": "cae706d654b53c31",
         "type": "tabs",
         "children": [
           {
-            "id": "8590742af00ea539",
+            "id": "4cab738313c25cc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desigualdad de Cauchy.md",
+                "file": "Existencia de primitivas a lo largo de homotopías.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b9cd970a3365f38c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teorema de Louville.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e33c84fbbd27199c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Holomorfa implica Analítica.canvas",
-                "viewState": {
-                  "x": 159.6146247536955,
-                  "y": 490.2783059387988,
-                  "zoom": -1.4
-                }
-              }
-            }
-          },
-          {
-            "id": "035bd37e1d97a87f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Holomorfa implica Analítica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a416465efc951f87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Holomorfa implica Analítica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32e892a6b425e0e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yoga de funciones analíticas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ff629d813c4f5fd",
+            "id": "29b47f80165b4c99",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -92,24 +29,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "2cdf3677873e5e10",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "396d60bec3e246f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temas complejo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#complejo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bc05b07eafa9dc05",
@@ -196,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teorema de Louville.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teorema de Louville.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Teorema de Louville.md"
-              }
+              "state": {}
             }
           },
           {
@@ -273,34 +187,46 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "b9cd970a3365f38c",
+  "active": "29b47f80165b4c99",
   "lastOpenFiles": [
-    "Desigualdad de Cauchy.md",
+    "Invariancia por homotopía de curvasa de la integral.md",
+    "Existencia de primitivas a lo largo de homotopías.md",
+    "Indice de una curva.md",
+    "Series de Laurent.md",
+    "Codominio del indice de una curva.md",
     "Temas complejo.md",
+    "Existencia de primitiva a lo largo de una curva.md",
+    "Regla de Barrow para primitivas a lo largo de curvas.md",
+    "Homotopía entre curvas complejas.md",
+    "Simplemente conexo complejo.md",
+    "Primitivas a lo largo de curvas.md",
+    "Primitiva a lo largo de homotopías.md",
+    "Función logarítmica compleja.md",
+    "Función Meromorfa.md",
+    "Excalidraw/Series de Laurent 2024-03-02 22.50.59.excalidraw.md",
     "Holomorfa implica Analítica.md",
-    "Holomorfa implica Analítica.canvas",
     "Teorema de Louville.md",
-    "Función entera.md",
+    "Teorema de Louville generalizado.md",
     "Fórmula de Cauchy.md",
-    "Yoga de funciones analíticas.md",
-    "Integral compleja de la función inversa.md",
-    "Yoga de integración compleja.md",
-    "fórmula de la serie geométrica.md",
-    "Teorema de Cauchy segunda versión.md",
-    "Teorema de Cauchy Primera versión.md",
-    "Excalidraw/Teorema de Cauchy 2024-02-29 00.41.34.excalidraw.md",
-    "Excalidraw/Teorema de Cauchy segunda versión 2024-02-29 16.44.15.excalidraw.md",
-    "Excalidraw/Teorema de Cauchy 2024-02-29 01.34.35.excalidraw.md",
-    "Untitled 8.md",
     "snippets.md",
-    "Excalidraw/Teorema de Cauchy 2024-02-28 21.20.14.excalidraw.md",
-    "Excalidraw/Yoga de integración compleja 2024-02-28 20.38.58.excalidraw.md",
-    "Integración de funciones complejas.md",
-    "Ecuaciones de Cauchy-Riemann.md",
-    "Análisis complejo.md",
-    "Análisis de métodos numéricos.md",
-    "Cálculo numérico.md",
-    "Convergencia de los métodos de cuadratura.md",
+    "Funciones enteras y singularidades.md",
+    "Singularidad en el infinito.md",
+    "Singularidad.md",
+    "Fórmula de Cauchy para polos.md",
+    "Teorema de Wiestrass-Casorati.md",
+    "Caracterización de singularidades.md",
+    "Holomorfa implica Analítica.canvas",
+    "Fuentes/Solucionperiodica.png",
+    "Fuentes/Final 22-12-2021 Sandra Martínez.pdf",
+    "Fuentes/Final 15-12-2021 Sandra Martínez.pdf",
+    "Fuentes/Final_23-02-2023_SandraM.pdf",
+    "Fuentes/photo_2023-06-06_18-35-33.jpg",
+    "Fuentes/Pasted image 20230603235632.png",
+    "Fuentes/Pasted image 20230603235645.png",
+    "Fuentes/output.png",
+    "Fuentes/Formula Fourier.png",
+    "Fuentes/coeficientes_matriz.png",
+    "Fuentes/Animated-mass-spring.gif",
     "Elementos de cálculo numérico.canvas",
     "Libros/Duran_Lassalle_Rossi.pdf",
     "Libros/applied_cateogry_theory.pdf",
@@ -309,18 +235,7 @@
     "barcodes_ghrist.pdf",
     "EATchapter4_ghrist.pdf",
     "Libros/aluffi.pdf",
-    "Libros/Algebra 2/Notas8.pdf",
-    "Libros/Algebra 2/Notas15.pdf",
-    "Libros/Algebra 2/Notas17.pdf",
     "export/Clase Fourier/Fuentes/Formula Fourier.png",
-    "export/Clase Fourier/Fuentes/output.png",
-    "export/Clase Fourier/Fuentes/coeficientes_matriz.png",
-    "export/Clase Fourier/Fuentes/Solucionperiodica.png",
-    "export/Clase Fourier/plugin/chalkboard/img/blackboard.png",
-    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-black.png",
-    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-blue.png",
-    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-green.png",
-    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-orange.png",
-    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-purple.png"
+    "export/Clase Fourier/Fuentes/output.png"
   ]
 }
