@@ -1,5 +1,5 @@
 ## Definición
-- Un anillo es un conjunto $A$ provisto de dos operaciones binarias, $+$ y $\cdot$ siendo un [[Grupo|grupo]] abeliano para la suma y un [[Monoides|monoide]] para la multiplicación. Además cumple que
+- Un anillo es un conjunto $A$ provisto de dos operaciones binarias, $+$ y $\cdot$ siendo un [[Grupo|grupo]] abeliano para la suma y un [[Monoide|monoide]] para la multiplicación. Además cumple que
 $$
 \forall r,s,t \in A: \quad(r+s)\cdot t = r\cdot t + s\cdot t \quad \text{ y } \quad t\cdot(r+s)=t\cdot r+t\cdot s
 $$

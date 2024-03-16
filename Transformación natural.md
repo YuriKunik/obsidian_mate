@@ -1,6 +1,6 @@
 #matemática  #categorias #definiciones 
 ## Definición
-Dados dos [[Funtor|funtores ]]$F,G : \mathscr{C} \to \mathscr{D}$, una transformación natural $\nu: F \Rightarrow G$ es una colección de flechas tal que
+Dados dos [[Funtor|funtores]] $F,G : \mathscr{C} \to \mathscr{D}$, una transformación natural $\nu: F \Rightarrow G$ es una colección de flechas tal que
 1. Para todo objeto, $X$ en la [[Categoría|categoría ]] $\mathscr{C}$ tiene asociada un morfismo $\nu_X: F(X) \to G(X)$. Este morfismo es llamado componente de $\nu$ en $X$.
 2. Los componentes deben hacer que, dada una flecha, el siguiente diagrama conmute:
 ```tikz

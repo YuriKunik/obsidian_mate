@@ -22,8 +22,8 @@ criterios de convergencia
 - [x] Definición de integrales curvilíneas y propiedades. ✅ 2024-03-01
 - [x] El Teorema de Cauchy-Goursat para rectángulos. ✅ 2024-03-01
 - [x] El teorema de Cauchy para el disco. ✅ 2024-03-01
-- [ ] Teorema de Morera.
-- [ ] Indice de una curva respecto de un punto, propiedades.
+- [x] Teorema de Morera. ✅ 2024-03-04
+- [x] Indice de una curva respecto de un punto, propiedades. ✅ 2024-03-03
 - [x] La fórmula integral de Cauchy, derivadas sucesivas. Desigualdades de Cauchy. Teorema de Liouville. Teorema fundamental del álgebra. ✅ 2024-03-01
 ## Desarrollo de Taylor
 
@@ -40,11 +40,11 @@ criterios de convergencia
   
 ## Forma general del Teorema de Cauchy:
 
-- [ ] Simple conexión.
-- [ ] Curvas homotópicas.
-- [ ] Teorema generalizado de Cauchy.  
+- [x] Simple conexión. ✅ 2024-03-03
+- [x] Curvas homotópicas. ✅ 2024-03-03
+- [x] Teorema generalizado de Cauchy. ✅ 2024-03-03
   
-## Singularidaes aisladas:
+## Singularidades aisladas:
 
 - [ ] Desarrollo en serie de Laurent, región de convergencia.
 - [x] Clasificación de singularidades aisladas: evitable, polo, esencial. ✅ 2024-03-03
@@ -57,7 +57,6 @@ criterios de convergencia
 - [ ] Forma general del teorema de los residuos.
 - [ ] Derivada logaritmica y su integral en un arco cerrado.
 - [ ] Teorema de Rouché. Aplicaciones.
-- [ ] Funciones meromorfas en la esfera de Riemann.
 - [ ] Cálculo de integrales por el método de los residuos.
 
 ## Convergencia uniforme sobre compactos:

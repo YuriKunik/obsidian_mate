@@ -17,13 +17,15 @@ Dado $z\in A$, fijemos $\tilde{r}$ y $\tilde{R}$ taels que $r<\tilde{r}<\lvert z
 
 ![[Series de Laurent 2024-03-02 22.50.59.excalidraw]]
 
-Como $I(\gamma, z)=1$ y las integrales sobre el segmento se cancelan, la [[Fórmula generalizada de Cauchy]]  nos dice que
+Como el [[Indice de una curva]] es $I(\gamma, z)=1$ y las integrales sobre el segmento se cancelan, la [[Fórmula generalizada de Cauchy]]  nos dice que
 
 $$
 f(z)=\frac{1}{2\pi i}\int_{\gamma} \frac{f(w)}{w-z} \, dw = \frac{1}{2\pi i} \left( \int_{\lvert w-z_{0} \rvert = R } \frac{f(z)}{w-z}\, dw  - \int_{\lvert w-z_{0} \rvert = r } \, \frac{f(w)}{w-z} dw \right)
 $$
 
 Veamos los dos términos de la resta por separado; para la primera integral, el hecho de que $\lvert z-z_{0} \rvert< \lvert w-z_{0} \rvert= \tilde{R}$ nos permite escribir
-$$
 
 $$
+\frac{1}{w-z}= \frac{1}{w-z_{0}-(z-z_{0})} = \frac{1}{w-z_{0}} \sum_{n\geq 0}\left( \frac{z-z_{0}}{w-z_{0}} \right)^{n}
+$$
+por la [[fórmula de la serie geométrica]] ($\frac{\lvert z-z_{0} \rvert}{\lvert w-z_{0} \rvert}<1$).

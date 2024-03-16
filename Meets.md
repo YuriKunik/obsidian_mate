@@ -1,7 +1,7 @@
 
 ## Definición
 
-Sea $(P, \leq)$ un [[Preordenes|preorden]] y $A \subseteq P$ un subconjunto. Decimos que un elemento $p \in P$ es un meet de $A$ si
+Sea $(P, \leq)$ un [[Preorden|preorden]] y $A \subseteq P$ un subconjunto. Decimos que un elemento $p \in P$ es un meet de $A$ si
 1. $\forall a \in A$ tenemos $p\leq a$ y
 2. $\forall q$ tal que $q\leq a$, $\forall a \in A$, tenemos $q\leq p$ .
 Lo notamos $p=\wedge A$

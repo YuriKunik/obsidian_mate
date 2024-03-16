@@ -8,23 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4cab738313c25cc5",
+            "id": "058e0d239e0c2382",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Existencia de primitivas a lo largo de homotopías.md",
+                "file": "Transformación natural.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "29b47f80165b4c99",
+            "id": "223546492c902c92",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
+          },
+          {
+            "id": "04c6262aefd22ce0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bases de datos como categorías.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -57,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#complejo",
+                "query": "simplemente conexo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Transformación natural.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Transformación natural.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Transformación natural.md"
+              }
             }
           },
           {
@@ -187,34 +205,34 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "29b47f80165b4c99",
+  "active": "223546492c902c92",
   "lastOpenFiles": [
-    "Invariancia por homotopía de curvasa de la integral.md",
-    "Existencia de primitivas a lo largo de homotopías.md",
-    "Indice de una curva.md",
-    "Series de Laurent.md",
-    "Codominio del indice de una curva.md",
+    "Monoide.md",
+    "Untitled 12.md",
     "Temas complejo.md",
-    "Existencia de primitiva a lo largo de una curva.md",
-    "Regla de Barrow para primitivas a lo largo de curvas.md",
-    "Homotopía entre curvas complejas.md",
-    "Simplemente conexo complejo.md",
-    "Primitivas a lo largo de curvas.md",
-    "Primitiva a lo largo de homotopías.md",
-    "Función logarítmica compleja.md",
-    "Función Meromorfa.md",
-    "Excalidraw/Series de Laurent 2024-03-02 22.50.59.excalidraw.md",
-    "Holomorfa implica Analítica.md",
-    "Teorema de Louville.md",
-    "Teorema de Louville generalizado.md",
-    "Fórmula de Cauchy.md",
+    "Sobre la libertad.md",
+    "Series de Laurent.md",
+    "Preorden monoidal simétrico.md",
+    "Bases de datos como categorías.md",
+    "Instancia de una categoría.md",
+    "Categoría libre.md",
+    "Presentación Finita de una categoría.md",
+    "Preorden.md",
     "snippets.md",
-    "Funciones enteras y singularidades.md",
-    "Singularidad en el infinito.md",
-    "Singularidad.md",
-    "Fórmula de Cauchy para polos.md",
-    "Teorema de Wiestrass-Casorati.md",
-    "Caracterización de singularidades.md",
+    "Grafo.md",
+    "Excalidraw/Bases de datos como categorías 2024-03-07 02.34.24.excalidraw.md",
+    "Excalidraw/Grafo 2024-03-07 02.08.11.excalidraw.md",
+    "Untitled 11.md",
+    "Grafo de flujo de señales.md",
+    "Diagrama.md",
+    "Primitivas a lo largo de curvas.md",
+    "Fórmula de Cauchy Generalizada.md",
+    "Existencia de ramas del logaritmo.md",
+    "Teorema de Cauchy generalizado.md",
+    "Rama logaritmica de una función.md",
+    "Existencia de primitivas a lo largo de homotopías.md",
+    "Desarrollo de Laurent.md",
+    "Invariancia por homotopía de curvas de la integral.md",
     "Holomorfa implica Analítica.canvas",
     "Fuentes/Solucionperiodica.png",
     "Fuentes/Final 22-12-2021 Sandra Martínez.pdf",
