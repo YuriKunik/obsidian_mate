@@ -4,45 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "cae706d654b53c31",
+        "id": "7348ce41d5ab82b1",
         "type": "tabs",
         "children": [
           {
-            "id": "058e0d239e0c2382",
+            "id": "c1ad662ac059f21a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transformación natural.md",
+                "file": "Quantale.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "223546492c902c92",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
-          },
-          {
-            "id": "04c6262aefd22ce0",
+            "id": "64e55d40c880184e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bases de datos como categorías.md",
+                "file": "Profuntor enriquecido.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "356653760d101fb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relación de factibilidad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f7598926f09d218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Complejo de cech.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -71,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "simplemente conexo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bc05b07eafa9dc05",
@@ -128,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transformación natural.md",
+                "file": "Complejo de cech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transformación natural.md",
+                "file": "Complejo de cech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transformación natural.md"
+                "file": "Complejo de cech.md"
               }
             }
           },
@@ -205,46 +220,36 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "223546492c902c92",
+  "active": "1f7598926f09d218",
   "lastOpenFiles": [
-    "Monoide.md",
+    "Relación de factibilidad.md",
+    "Profuntor enriquecido.md",
+    "Preorden monoidal simétrico cerrado.md",
+    "Funtor Enriquecido.md",
+    "Yoga de preordenes monoidales simétricos cerrados.md",
+    "Categoría enriquecida en si misma.md",
+    "Conexión de Galois.md",
+    "funtor adjunto.md",
+    "Funtor Adjunto.md",
+    "Quantale.md",
+    "snippets.md",
+    "Join.md",
+    "Producto de categorías enriquecidas.md",
+    "leyes de termodinámica.md",
+    "Entropía.md",
+    "Categoría Enriquecida.md",
+    "Libros/Lee_Smooth_Manifolds.pdf",
+    "Cibernética y sociedad.md",
     "Untitled 12.md",
-    "Temas complejo.md",
+    "Untitled 11.md",
+    "Teorema de Cauchy generalizado.md",
     "Sobre la libertad.md",
-    "Series de Laurent.md",
-    "Preorden monoidal simétrico.md",
-    "Bases de datos como categorías.md",
-    "Instancia de una categoría.md",
-    "Categoría libre.md",
+    "Rama logaritmica de una función.md",
     "Presentación Finita de una categoría.md",
     "Preorden.md",
-    "snippets.md",
-    "Grafo.md",
-    "Excalidraw/Bases de datos como categorías 2024-03-07 02.34.24.excalidraw.md",
-    "Excalidraw/Grafo 2024-03-07 02.08.11.excalidraw.md",
-    "Untitled 11.md",
-    "Grafo de flujo de señales.md",
-    "Diagrama.md",
-    "Primitivas a lo largo de curvas.md",
-    "Fórmula de Cauchy Generalizada.md",
-    "Existencia de ramas del logaritmo.md",
-    "Teorema de Cauchy generalizado.md",
-    "Rama logaritmica de una función.md",
-    "Existencia de primitivas a lo largo de homotopías.md",
-    "Desarrollo de Laurent.md",
-    "Invariancia por homotopía de curvas de la integral.md",
+    "Preorden monoidal simétrico.md",
+    "Monoide.md",
     "Holomorfa implica Analítica.canvas",
-    "Fuentes/Solucionperiodica.png",
-    "Fuentes/Final 22-12-2021 Sandra Martínez.pdf",
-    "Fuentes/Final 15-12-2021 Sandra Martínez.pdf",
-    "Fuentes/Final_23-02-2023_SandraM.pdf",
-    "Fuentes/photo_2023-06-06_18-35-33.jpg",
-    "Fuentes/Pasted image 20230603235632.png",
-    "Fuentes/Pasted image 20230603235645.png",
-    "Fuentes/output.png",
-    "Fuentes/Formula Fourier.png",
-    "Fuentes/coeficientes_matriz.png",
-    "Fuentes/Animated-mass-spring.gif",
     "Elementos de cálculo numérico.canvas",
     "Libros/Duran_Lassalle_Rossi.pdf",
     "Libros/applied_cateogry_theory.pdf",
@@ -253,7 +258,17 @@
     "barcodes_ghrist.pdf",
     "EATchapter4_ghrist.pdf",
     "Libros/aluffi.pdf",
+    "Libros/Algebra 2/Notas8.pdf",
+    "Libros/Algebra 2/Notas15.pdf",
     "export/Clase Fourier/Fuentes/Formula Fourier.png",
-    "export/Clase Fourier/Fuentes/output.png"
+    "export/Clase Fourier/Fuentes/output.png",
+    "export/Clase Fourier/Fuentes/coeficientes_matriz.png",
+    "export/Clase Fourier/Fuentes/Solucionperiodica.png",
+    "export/Clase Fourier/plugin/chalkboard/img/blackboard.png",
+    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-black.png",
+    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-blue.png",
+    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-green.png",
+    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-orange.png",
+    "export/Clase Fourier/plugin/chalkboard/img/boardmarker-purple.png"
   ]
 }

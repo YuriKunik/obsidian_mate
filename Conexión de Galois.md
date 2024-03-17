@@ -4,4 +4,4 @@ Dados dos [[Preorden]] $P$ y $Q$, una conexión de Galois es un par de mapas mon
 $$
 f(p)\leq q ~ ~\text{ si y solo si }~~ p\leq g(q)
 $$
-Decimos que f es el [[adjunto]] a izquierda de g y viceversa.
+Decimos que f es el [[funtor adjunto]] a izquierda de g y viceversa.
