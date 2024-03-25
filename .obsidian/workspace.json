@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7348ce41d5ab82b1",
+        "id": "9e02e4600d705123",
         "type": "tabs",
         "children": [
           {
-            "id": "c1ad662ac059f21a",
+            "id": "532b8e374eeca628",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Quantale.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64e55d40c880184e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Profuntor enriquecido.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "356653760d101fb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relación de factibilidad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f7598926f09d218",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Complejo de cech.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/GD.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,8 +63,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Complejo de cech.md",
+                "file": "Excalidraw/GD.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Complejo de cech.md",
+                "file": "Excalidraw/GD.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Complejo de cech.md"
+                "file": "Excalidraw/GD.excalidraw.md"
               }
             }
           },
@@ -220,35 +180,38 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "1f7598926f09d218",
+  "active": "532b8e374eeca628",
   "lastOpenFiles": [
-    "Relación de factibilidad.md",
+    "Pasted Image 20240324004719_588.png",
+    "Prácticas/Practica-01-GeoDif-2024-1C.pdf",
+    "Excalidraw/GD.excalidraw.md",
+    "Diferenciales de orden superior.md",
+    "Prácticas",
+    "Diferencial de una función multivariable.md",
+    "Polinomios multivariables.md",
+    "Polinomio homogeneo.md",
+    "Forma multilineal.md",
+    "2024-03-24.md",
+    "Untitled.canvas",
+    "Generalización de espacios topológicos a espacios vectoriales.md",
+    "Variedad topológica.md",
+    "Carta.md",
+    "Mapa de transición.md",
+    "Mapas suavemente compatibles.md",
+    "Variedad topologíca diferenciable.md",
+    "Atlas.md",
+    "Excalidraw/Función diferenciable entre variedades 2024-03-23 23.06.52.excalidraw.md",
+    "Función diferenciable entre variedades.md",
+    "Quantale.md",
     "Profuntor enriquecido.md",
+    "Relación de factibilidad.md",
+    "Excalidraw/Variedad topológica 2024-03-20 20.32.18.excalidraw.md",
+    "Complejo de cech.md",
     "Preorden monoidal simétrico cerrado.md",
     "Funtor Enriquecido.md",
     "Yoga de preordenes monoidales simétricos cerrados.md",
     "Categoría enriquecida en si misma.md",
-    "Conexión de Galois.md",
-    "funtor adjunto.md",
-    "Funtor Adjunto.md",
-    "Quantale.md",
-    "snippets.md",
-    "Join.md",
-    "Producto de categorías enriquecidas.md",
-    "leyes de termodinámica.md",
-    "Entropía.md",
-    "Categoría Enriquecida.md",
     "Libros/Lee_Smooth_Manifolds.pdf",
-    "Cibernética y sociedad.md",
-    "Untitled 12.md",
-    "Untitled 11.md",
-    "Teorema de Cauchy generalizado.md",
-    "Sobre la libertad.md",
-    "Rama logaritmica de una función.md",
-    "Presentación Finita de una categoría.md",
-    "Preorden.md",
-    "Preorden monoidal simétrico.md",
-    "Monoide.md",
     "Holomorfa implica Analítica.canvas",
     "Elementos de cálculo numérico.canvas",
     "Libros/Duran_Lassalle_Rossi.pdf",
@@ -258,8 +221,6 @@
     "barcodes_ghrist.pdf",
     "EATchapter4_ghrist.pdf",
     "Libros/aluffi.pdf",
-    "Libros/Algebra 2/Notas8.pdf",
-    "Libros/Algebra 2/Notas15.pdf",
     "export/Clase Fourier/Fuentes/Formula Fourier.png",
     "export/Clase Fourier/Fuentes/output.png",
     "export/Clase Fourier/Fuentes/coeficientes_matriz.png",
