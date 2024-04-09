@@ -8,55 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1ad662ac059f21a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quantale.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64e55d40c880184e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Profuntor enriquecido.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "356653760d101fb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relación de factibilidad.md",
+                "file": "Categoría enriquecida en si misma.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1f7598926f09d218",
+            "id": "5adfe06876d4716e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Complejo de cech.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Complejo de cech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Complejo de cech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Complejo de cech.md"
-              }
+              "state": {}
             }
           },
           {
@@ -220,18 +188,24 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "1f7598926f09d218",
+  "active": "5adfe06876d4716e",
   "lastOpenFiles": [
+    "Categoría enriquecida en si misma.md",
+    "Temas Geometría Diferencial.md",
+    "Ansible.md",
+    "Complejo de cech.md",
+    "Ejemplos de profuntores enriquecidos.md",
     "Relación de factibilidad.md",
     "Profuntor enriquecido.md",
+    "Quantale.md",
+    "Excalidraw/Ejemplos de profuntores enriquecidos 2024-03-17 23.14.55.excalidraw.md",
+    "Excalidraw/Ejemplos de profuntores enriquecidos 2024-03-17 22.53.51.excalidraw.md",
     "Preorden monoidal simétrico cerrado.md",
     "Funtor Enriquecido.md",
     "Yoga de preordenes monoidales simétricos cerrados.md",
-    "Categoría enriquecida en si misma.md",
     "Conexión de Galois.md",
     "funtor adjunto.md",
     "Funtor Adjunto.md",
-    "Quantale.md",
     "snippets.md",
     "Join.md",
     "Producto de categorías enriquecidas.md",
@@ -243,12 +217,6 @@
     "Untitled 12.md",
     "Untitled 11.md",
     "Teorema de Cauchy generalizado.md",
-    "Sobre la libertad.md",
-    "Rama logaritmica de una función.md",
-    "Presentación Finita de una categoría.md",
-    "Preorden.md",
-    "Preorden monoidal simétrico.md",
-    "Monoide.md",
     "Holomorfa implica Analítica.canvas",
     "Elementos de cálculo numérico.canvas",
     "Libros/Duran_Lassalle_Rossi.pdf",
