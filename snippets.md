@@ -205,9 +205,13 @@
     {trigger: "infi", replacement: "\\int_{-\\infty}^{\\infty} $0 \\, d${1:x} $2", options: "mA"},
     {trigger: "dint", replacement: "\\int_{${0:a}}^{${1:b}} $2 \\, d${3:x} $4", options: "mA"},
     {trigger: "cint", replacement: "\\int_{\\gamma}$0 \\, d${1:z} $2", options: "mA"},
-    {trigger: "iiint", replacement: "\\iiint", options: "mA"},
+    {trigger: "lint", replacement: "\\int_{$0}$1", options: "mA"},
     {trigger: "iint", replacement: "\\iint", options: "mA"},
     {trigger: "int", replacement: "\\int $0 \\, d${1:x} $2", options: "mA"},
+	
+	 // Sups and infs
+    {trigger: "inf", replacement: "\\inf", options: "mA"},
+    {trigger: "sup", replacement: "\\sup", options: "mA"},
 
     // Environments
     {trigger: "pmat", replacement: "\\begin{pmatrix}\n$0\n\\end{pmatrix}", options: "mA"},
@@ -225,7 +229,7 @@
     // Brackets
     {trigger: "avg", replacement: "\\langle $0 \\rangle $1", options: "mA"},
     {trigger: "norm", replacement: "\\lvert $0 \\rvert $1", options: "mA", priority: 1},
-    {trigger: "mod", replacement: "|$0|$1", options: "mA"},
+    {trigger: "med", replacement: "|$0|$1", options: "mA"},
     {trigger: "(", replacement: "(${VISUAL})", options: "mA"},
     {trigger: "[", replacement: "[${VISUAL}]", options: "mA"},
     {trigger: "{", replacement: "{${VISUAL}}", options: "mA"},

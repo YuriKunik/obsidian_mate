@@ -1,0 +1,3 @@
+
+#baudrillard #libro #ensayo #capitalismo
+
